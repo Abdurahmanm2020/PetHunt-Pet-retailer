@@ -1,0 +1,280 @@
+body{
+	background-color:#B9FFFF;
+  font-family: 'Montserrat', sans-serif;
+}
+
+/*#B9FFFF some hover*/
+
+
+#title{
+  background-color: #676734;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.container-fluid {
+	background-color:#00B3B3;
+ /* padding: 2% 12%;*/
+}
+
+h1 {
+  font-family: 'montserrat', sans-serif;
+  font-weight: 1000;
+  font-size: 3rem;
+  line-height: 1.4;
+}
+
+.home-thing{
+	margin-top: 30%;
+}
+
+.title-image{
+	margin-top: 30%;
+	margin-left:5%;
+	  width: 100%;
+  transform: rotate(7deg);
+}
+
+.download-button{
+	margin: 7% 0% 0% 3%;
+	
+}
+
+.navbar-brand {
+	color:#333;
+	margin-right: 190px;
+  font-family: 'Ubuntu';
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.navbar {
+	z-index: 1;
+	background-color:#006C6C;
+	position:fixed;
+  
+}
+
+.nav-item {
+  padding: 0 15px;
+}
+
+.nav-link {
+  font-weight: lighter;
+}
+
+
+#features{
+	padding: 7% 15%;
+}
+
+
+
+
+.features-box{
+text-align:center;
+padding-top: 2%;
+transition: background-color 3s;
+transition: color 3s;
+}
+
+.features-box:hover{
+	border-radius: 10%;
+	background-color:#006C6C;
+color:#FFF;
+}
+
+h3 {
+	font-family: "Montserrat-Bold";
+}
+
+
+.icon{
+	color:#00B3B3;
+	margin-bottom: 1rem;
+	 transition: color 1s;
+	
+}/**/
+
+
+.icon:hover{
+	color:#fff;
+}
+
+#testimonials{
+	text-align:center;
+	background-color:#00B3B3;
+	 transition: background-color 3s;
+
+}
+
+
+#testimonials:hover{
+	background-color:#8AFFFF;
+
+}
+
+DEDEBC
+
+
+
+
+
+.img-1{
+	border-radius: 100%;
+}
+
+
+#testimonials h1{
+	font-family: "Montserrat-Bold";
+	font-weight:bold;
+	font-size:3rem;
+}
+
+#testimonials h1:hover{
+	color:#000;
+}
+
+
+
+.carousel-item{
+	padding: 7% 15%;
+}
+	
+#pricing {
+  padding: 3% 10%;
+}
+
+.price-item {
+  margin-bottom: 4%;
+}
+
+#sale {
+  padding: 3% 10%;
+}
+
+.sale-item {
+  margin-bottom: 4%;
+}
+
+.card-header{
+	
+	background-color:#00B3B3;
+	
+}
+
+.card{
+background-color:#00DFDF;
+	 transition: background-color 3s;
+}
+
+
+.card:hover{
+	background-color:#B9FFFF;
+}
+
+
+#cta{
+  text-align: center;
+  padding: 5% 15%;
+  background-color:#006C6C;
+}
+
+#cta-text{
+color:#006C6C;
+  padding-bottom: 2%;
+  color: #fff;
+  font-family: 'Ubuntu';
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.footer-button{
+  margin: 2% 1%;
+}
+
+#footer{
+  font-family: 'Ubuntu';
+  font-size:3rem;
+  color: #fff;
+  padding-top: 2%;
+  padding-bottom: 1%;
+  text-align: center;
+}
+
+
+#footer-text{
+  font-family: 'Ubuntu';
+  color: #000;
+  padding-top: 2%;
+  padding-bottom: 1%;
+  text-align: center;
+}
+
+
+.contact-text{
+	color:#fff;
+}
+
+.contat-me{
+	margin-top: 2%;
+	margin-right: 1%;
+	margin-bottom: 4%;
+}
+
+
+h5{
+	color:#fff;
+	 font-family: 'Ubuntu';
+}
+
+h2{
+	font-family: "Montserrat-Bold";
+	color:#fff;
+}
+
+.Buy-button{
+	background-color:#108b9e
+}
+
+.Buy-button:hover{
+	background-color:#80FFFF
+}
+
+#subject{
+	width:400px;
+}
+
+
+.modal-content{
+	background-color:#C4FFFF;
+}
+
+modal-header{
+	background-color:#C4FFFF
+}
+
+modal-body{
+	background-color:#C4FFFF
+}
+
+
+#myModal{
+	background-color:#00B3B3;
+	text-align:left;
+}
+
+.fname{
+	padding:2% 2%;
+}
+
+.lname{
+	padding:2% 2%;
+}
+
+.subject{
+	padding:2% 2%;
+}
+
+.h5{
+	color:#000;
+}
