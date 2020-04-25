@@ -290,8 +290,11 @@ button, input {
     border-radius: 9px;
 }
 
-.subject{
-	padding:2% 2%;
+#subject {
+    border: none;
+    width: 400px;
+    border-radius: 9px;
+    background-color: azure;
 }
 
 .h5{
