@@ -247,8 +247,11 @@ h2{
 	background-color:#80FFFF
 }
 
-#subject{
-	width:400px;
+#subject {
+    border: none;
+    width: 400px;
+    border-radius: 9px;
+    background-color: azure;
 }
 
 
