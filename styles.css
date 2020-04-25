@@ -162,6 +162,13 @@ DEDEBC
 	
 }
 
+#country{
+	width: 108px;
+    word-wrap: normal;
+    height: 2pc;
+    background-color: azure;
+}
+
 .card{
 background-color:#00DFDF;
 	 transition: background-color 3s;
@@ -269,6 +276,15 @@ modal-body{
 
 .lname{
 	padding:2% 2%;
+}
+
+button, input {
+    background-color: azure;
+    border: none;
+    overflow: visible;
+    width: 256px;
+    height: 46px;
+    border-radius: 9px;
 }
 
 .subject{
