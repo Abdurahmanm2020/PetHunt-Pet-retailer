@@ -252,7 +252,9 @@ h2{
     width: 400px;
     border-radius: 9px;
     background-color: azure;
+    height: 200px;
 }
+
 
 
 .modal-content{
@@ -290,12 +292,6 @@ button, input {
     border-radius: 9px;
 }
 
-#subject {
-    border: none;
-    width: 400px;
-    border-radius: 9px;
-    background-color: azure;
-}
 
 .h5{
 	color:#000;
