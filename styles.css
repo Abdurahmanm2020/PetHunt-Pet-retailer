@@ -163,6 +163,8 @@ DEDEBC
 }
 
 #country{
+	border: none;
+    border-radius: 23px;
 	width: 108px;
     word-wrap: normal;
     height: 2pc;
